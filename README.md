@@ -26,7 +26,7 @@ Git
 Clone the repo
 
 git clone https://github.com/itz-mr-srivastava/IBM_Project.git
-cd mern-ecommerce-project
+cd IBM_Project
 
 Setup Backend
 
